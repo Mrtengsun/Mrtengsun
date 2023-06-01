@@ -1,3 +1,9 @@
+<div id="badges">
+   <a href="https://www.linkedin.com/in/teng-sun-27438a122/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+</div>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtengsun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrtengsun&show_icons=true&theme=radical)
 
@@ -19,11 +25,7 @@ Thank you for taking the time to visit my GitHub profile. I hope you find my pro
 
 Happy coding!
 
-<div id="badges">
-   <a href="https://www.linkedin.com/in/teng-sun-27438a122/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-</div>
+
 Teng Sun
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mrtengsun&theme=dark&background=000000)](https://git.io/streak-stats)
