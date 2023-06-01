@@ -1,3 +1,4 @@
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrtengsun&show_icons=true&theme=radical)
 ### Dear visitors👋,
 Welcome to my GitHub profile! I'm delighted to have you here and showcase my projects and contributions in the world of software development.
 My name is Teng Sun, I am a passionate web developer with expertise in technologies from the MERN stack, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. I believe in creating intuitive and interactive websites that provide exceptional user experiences. 
@@ -20,5 +21,5 @@ Happy coding!
 
 Teng Sun
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrtengsun&show_icons=true&theme=radical)
+
 
