@@ -1,11 +1,11 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrtengsun&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtengsun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mrtengsun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ### Dear visitors👋,
 Welcome to my GitHub profile! I'm delighted to have you here and showcase my projects and contributions in the world of software development.
 My name is Teng Sun, I am a passionate web developer with expertise in technologies from the MERN stack, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. I believe in creating intuitive and interactive websites that provide exceptional user experiences. 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtengsun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
