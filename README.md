@@ -1,6 +1,6 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mrtengsun&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Mrtengsun&show_icons=true&theme=radical)
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mrtengsun&theme=dark&background=000000)](https://git.io/streak-stats)
+
 ### Dear visitors👋,
 Welcome to my GitHub profile! I'm delighted to have you here and showcase my projects and contributions in the world of software development.
 My name is Teng Sun, I am a passionate web developer with expertise in technologies from the MERN stack, including HTML, CSS, JavaScript, React, Node.js, and MongoDB. I believe in creating intuitive and interactive websites that provide exceptional user experiences. 
@@ -20,6 +20,6 @@ Thank you for taking the time to visit my GitHub profile. I hope you find my pro
 Happy coding!
 
 Teng Sun
-
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mrtengsun&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
